@@ -1,0 +1,6 @@
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\bin\Debug\StringInterpolation.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\bin\Debug\StringInterpolation.pdb
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\obj\Debug\StringInterpolation.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\obj\Debug\StringInterpolation.pdb
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\StringInterpolation\obj\Debug\StringInterpolation.csprojResolveAssemblyReference.cache

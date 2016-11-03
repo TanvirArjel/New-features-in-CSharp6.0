@@ -1,0 +1,6 @@
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.exe.config
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.csprojResolveAssemblyReference.cache
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.pdb
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.pdb

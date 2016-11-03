@@ -1,0 +1,5 @@
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\UsingStaticNamespace\bin\Debug\UsingStaticNamespace.exe.config
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\UsingStaticNamespace\bin\Debug\UsingStaticNamespace.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\UsingStaticNamespace\bin\Debug\UsingStaticNamespace.pdb
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\UsingStaticNamespace\obj\Debug\UsingStaticNamespace.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\UsingStaticNamespace\obj\Debug\UsingStaticNamespace.pdb

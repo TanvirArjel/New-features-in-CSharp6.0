@@ -1,0 +1,5 @@
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\EpressionBodiedMethodAndProperties\bin\Debug\EpressionBodiedMethodAndProperties.exe.config
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\EpressionBodiedMethodAndProperties\bin\Debug\EpressionBodiedMethodAndProperties.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\EpressionBodiedMethodAndProperties\bin\Debug\EpressionBodiedMethodAndProperties.pdb
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\EpressionBodiedMethodAndProperties\obj\Debug\EpressionBodiedMethodAndProperties.exe
+F:\Project\Visual Studio 2015\New features in C#6.0\NewFeaturesInCsharp\EpressionBodiedMethodAndProperties\obj\Debug\EpressionBodiedMethodAndProperties.pdb
